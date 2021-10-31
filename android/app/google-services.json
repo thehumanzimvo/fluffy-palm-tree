@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327011407183",
+    "project_id": "bluesclues-d3e95",
+    "storage_bucket": "bluesclues-d3e95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327011407183:android:abf8c4f7d519879db2213a",
+        "android_client_info": {
+          "package_name": "dev.zimvo.bluesclues"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327011407183-esfiu9o952qaojhmoedthap8h1e110nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU6qQ47dL36fgFwiwuzdYXGRBkVQq_AEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327011407183-esfiu9o952qaojhmoedthap8h1e110nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
